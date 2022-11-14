@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Uanela/bqapp.git/static/css/main.941c9e36.css",
+    "main.js": "/Uanela/bqapp.git/static/js/main.6a9a7498.js",
+    "static/js/787.f14ac830.chunk.js": "/Uanela/bqapp.git/static/js/787.f14ac830.chunk.js",
+    "static/media/Black Quinta Logo.png": "/Uanela/bqapp.git/static/media/Black Quinta Logo.9a3e05c376c58bb56918.png",
+    "static/media/market7_profile_logo.png": "/Uanela/bqapp.git/static/media/market7_profile_logo.8d653f14671bc343819c.png",
+    "static/media/shcedule example.png": "/Uanela/bqapp.git/static/media/shcedule example.3acabcd8d26930ba3637.png",
+    "index.html": "/Uanela/bqapp.git/index.html",
+    "main.941c9e36.css.map": "/Uanela/bqapp.git/static/css/main.941c9e36.css.map",
+    "main.6a9a7498.js.map": "/Uanela/bqapp.git/static/js/main.6a9a7498.js.map",
+    "787.f14ac830.chunk.js.map": "/Uanela/bqapp.git/static/js/787.f14ac830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.941c9e36.css",
+    "static/js/main.6a9a7498.js"
+  ]
+}
